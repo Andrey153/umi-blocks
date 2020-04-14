@@ -1,0 +1,23 @@
+{
+  "name": "@umi-block/ABasicViews",
+  "version": "0.0.1",
+  "description": " basic object views for db repositories",
+  "main": "src/index.js",
+  "authors": {
+    "name": "Andrey",
+    "email": "vyalkov.a@gmail.com"
+  },
+  "repository": "umi-blocks/ABasicViews",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-types": "^0.3.0"
+  },
+  "license": "MIT"
+}
