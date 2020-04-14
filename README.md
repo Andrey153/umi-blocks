@@ -1,12 +1,11 @@
-# @umi-material/ABasicViews
+# @umi-material/ABasicView
 
- basic object views for db repositories
+basic object views for db repositories
 
 ## Usage
 
 ```sh
-# umi block https://github.com/umi-blocks/tree/master/ABasicViews
-umi block https://github.com/Andrey153/umi-blocks/ABasicViews
+umi block https://github.com/Andrey153/umi-blocks/ABasicView
 ```
 
 ## LICENSE
