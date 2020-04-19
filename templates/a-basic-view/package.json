@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url":  "https://github.com/Andrey153/umi-blocks/tree/master/templates/AVasicView"
+    "url":  "https://github.com/Andrey153/umi-blocks/tree/master/templates/a-basic-view"
   },
   "scripts": {
     "dev": "umi dev"
