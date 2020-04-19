@@ -14,11 +14,5 @@
   "scripts": {
     "dev": "umi dev"
   },
-  "dependencies": {
-    "react": ">=16.0.0"
-  },
-  "devDependencies": {
-    "umi": "^2.9.0"
-  },
   "license": "MIT"
 }
