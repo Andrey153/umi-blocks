@@ -7,7 +7,7 @@
     "name": "Andrey V",
     "email": "vylakov.a@gmail.com"
   },
-  "repository": "umi-blocks/ABasicView",
+  "repository": "https://github.com/Andrey153/umi-blocks/ABasicView",
   "scripts": {
     "dev": "umi dev"
   },
@@ -16,7 +16,6 @@
   },
   "devDependencies": {
     "umi": "^2.9.0",
-    "umi-plugin-block-dev": "^2.0.0"
   },
   "license": "MIT"
 }
